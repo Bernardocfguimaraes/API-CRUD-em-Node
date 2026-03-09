@@ -13,6 +13,11 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
-    "fastify": "^5.8.1"
+    "@neondatabase/serverless": "^1.0.2",
+    "fastify": "^5.8.1",
+    "postgres": "^3.4.8"
+  },
+  "devDependencies": {
+    "dotenv": "^17.3.1"
   }
 }
